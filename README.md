@@ -1,5 +1,5 @@
 <!--Banner-->
-![SumitSartale Banner Image](./banner.png)
+![SumitSartale Banner Image](./Banner.png)
 
 <!--Night Owl image-->
 <div>
